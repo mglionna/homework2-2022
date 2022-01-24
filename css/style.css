@@ -45,7 +45,7 @@ div {
     background-color: #ff0000;
     text-align: right;
     margin-left: 50px;
-    border-left: solid white 10px;
+    border-left: white solid 10px;
     border-bottom: 3px;
 }
 
@@ -53,7 +53,7 @@ div {
     background-color: #0000ff;
     text-align: left;
     margin-right: 50px;
-    border-right: solid white 10px;
+    border-right: white solid 10px;
     border-bottom: 3px;
 }
 
@@ -62,7 +62,7 @@ div {
     text-align: right; 
     margin-left: 50px;
     border-bottom: 3px;
-    border-left: solid white 10px;
+    border-left: white solid 10px;
 }
 
 .yellow h2 {
@@ -78,7 +78,7 @@ div {
     background-color: #00D800;
     text-align: left;
     margin-right: 50px;
-    border-right: solid white 10px;
+    border-right: white solid 10px;
     border-bottom: 3px;
 }
 
